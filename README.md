@@ -1,7 +1,7 @@
 # SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
- Operating System Lab [SEMESTER IV]
+ CSL404: Operating System Lab [SEMESTER IV]
 
-  - [x] **[OPEARING SYSTEM LAB](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)**
+  - [x] **CSL404: [OPEARING SYSTEM LAB](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)**
 
 ## Project 
   >_Compound and Simple Interest Calculator_
