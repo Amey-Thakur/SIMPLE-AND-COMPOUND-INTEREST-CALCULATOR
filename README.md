@@ -24,6 +24,6 @@
 
 <p align="center"> <b> 👉🏻 Presented as a part of the 4th Semester Mini-Project @ Terna Engineering College 👈🏻 <b> </p>
 
-<p align="center"> <b> 👷 Project Authors: Amey Thakur and Hasan Rizvi (Batch of 2022) <b> </p>
+<p align="center"> <b> 👷 Project Authors: Amey Thakur and Hasan Rizvi (Batch of 2023) <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
