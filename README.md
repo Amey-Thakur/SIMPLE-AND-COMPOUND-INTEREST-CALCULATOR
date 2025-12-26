@@ -134,11 +134,11 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#simple-and-compound-interest-calculator)** &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [🚀 Usage](#usage) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  ↑ [Back to Top](#simple-and-compound-interest-calculator) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [🚀 Usage](#usage) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[🧪 Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; **[💻 Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  🧪 **[Operating System Laboratory](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
