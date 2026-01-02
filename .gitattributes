@@ -1,2 +1,20 @@
-# Auto detect text files and perform LF normalization
+# Simple and Compound Interest Calculator - Academic Repository
+# Professional .gitattributes for scholarly archiving
+
+# Set default behavior to automatically normalize line endings
 * text=auto
+
+# Ensure text and source files use LF on checkout
+*.md text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Improve diff handling
+*.md text diff=markdown

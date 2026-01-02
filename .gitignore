@@ -1,0 +1,40 @@
+# Simple and Compound Interest Calculator - Academic Repository
+# Specialized .gitignore for Shell Script development and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+*.code-workspace
+
+# Runtime / Temp Files
+*.tmp
+*.log
+*.bak
+*.sav
+*.old
+*.orig
+
+# Office Temporary Files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
