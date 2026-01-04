@@ -1,13 +1,16 @@
 #!/bin/bash
 # -----------------------------------------------------------------------------
-# Script Name: Simple_&_Compound_Interest_Calculator.sh
-# Description: A menu-driven shell script to calculate Simple and Compound Interest.
-#              This script takes user input for principal, rate, and time,
-#              and performs precise calculations using the 'bc' calculator.
-#
-# Authors:     Amey Thakur, Hasan Rizvi
-# Repository:  https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
-# License:     MIT License
+# SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR: A Terminal-Based Financial Utility
+# 
+# This source file is part of a curated Computer Engineering project collection.
+# It is preserved as a finalized technical artifact representing the application 
+# of Shell Scripting (Bash) for financial logic and terminal-based UI.
+# 
+# AUTHOR: Amey Thakur (https://github.com/Amey-Thakur)
+# REPOSITORY: https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
+# ORIGINAL RELEASE: August 12, 2020
+# 
+# LICENSE: MIT License
 # -----------------------------------------------------------------------------
 
 # Start an infinite loop to keep the menu active until the user chooses to exit

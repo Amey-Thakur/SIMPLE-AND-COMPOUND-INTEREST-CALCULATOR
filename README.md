@@ -2,24 +2,21 @@
 
   # Simple and Compound Interest Calculator
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-blue.svg)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-blueviolet)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-blue)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue)](https://github.com/Amey-Thakur)
 
   A robust command-line utility for financial calculations, written in Shell Script.
 
-  **[View Code](Simple_%26_Compound_Interest_Calculator.sh)** • **[View Project Report](Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
+  **[View Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[View Project Report](Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 </div>
 
 ---
 
-<div align="center">
-
-  [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [🚀 Usage](#usage) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
-
-</div>
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Usage](#usage) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -72,9 +69,33 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 | **Precision** | Accurate floating-point calculations using `bc` (Basic Calculator) |
 | **Dual Mode** | Supports both Simple Interest and Compound Interest formulas |
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Language**: Shell Script (Bash)
 - **Environment**: Linux / Termux
+- **Utility**: `bc` (Basic Calculator)
+
+---
+
+<!-- STRUCTURE -->
+## Project Structure
+
+```
+SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
+│
+├── Source Code/                     # Shell Script logic
+│   └── Simple_&_Compound_Interest_Calculator.sh
+│
+├── Compound and Simple Interest Calculator Report.pdf
+│
+├── docs/                            # Project Documentation
+│   └── SPECIFICATION.md             # Formal Technical Specification
+│
+├── LICENSE                          # MIT License
+├── CITATION.cff                     # Citation Metadata
+├── SECURITY.md                      # Security Policy & Posture
+├── codemeta.json                    # Project Metadata (JSON-LD)
+└── README.md                        # Project Documentation
+```
 
 ---
 
@@ -97,7 +118,7 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
     ```
 3.  **Run the script**:
     ```bash
-    ./Simple_&_Compound_Interest_Calculator.sh
+    bash Source\ Code/Simple_&_Compound_Interest_Calculator.sh
     ```
 
 ---
@@ -109,7 +130,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright © 2020** [Amey Thakur](https://github.com/Amey-Thakur), [Hasan Rizvi](https://github.com/rizvihasan)
+**Copyright &copy; 2020** [Amey Thakur](https://github.com/Amey-Thakur), [Hasan Rizvi](https://github.com/rizvihasan)
 
 ---
 
@@ -132,13 +153,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 ---
 
 <!-- FOOTER -->
-<div align="center">
-
-  ↑ [Back to Top](#simple-and-compound-interest-calculator) &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [🚀 Usage](#usage) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
-
-  <br>
-
-  🧪 **[Operating System Laboratory](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  🔬 **[Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
