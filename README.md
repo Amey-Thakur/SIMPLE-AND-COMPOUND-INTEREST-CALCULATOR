@@ -87,10 +87,10 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
 │
 ├── Source Code/                     # Shell Script logic
-│   └── Simple_&_Compound_Interest_Calculator.sh
+│   └── Simple_&_Compound_Interest_Calculator.sh # Core calculation script
 │
 ├── Mini Project/                    # Documentation & Reports
-│   └── Compound and Simple Interest Calculator Report.pdf
+│   └── Compound and Simple Interest Calculator Report.pdf # Technical Report
 │
 ├── docs/                            # Project Documentation
 │   └── SPECIFICATION.md             # Formal Technical Specification
@@ -119,11 +119,11 @@ SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
     ```
 2.  **Make executable**:
     ```bash
-    chmod +x Simple_&_Compound_Interest_Calculator.sh
+    chmod +x "Source Code/Simple_&_Compound_Interest_Calculator.sh"
     ```
 3.  **Run the script**:
     ```bash
-    bash Source\ Code/Simple_&_Compound_Interest_Calculator.sh
+    bash "Source Code/Simple_&_Compound_Interest_Calculator.sh"
     ```
 
 ---
