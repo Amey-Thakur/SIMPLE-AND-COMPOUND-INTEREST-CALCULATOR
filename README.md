@@ -154,9 +154,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur)
-
 This project features the Simple and Compound Interest Calculator, a terminal-based financial utility developed as a 4th-semester mini-project for the Operating System Laboratory course. It showcases the practical application of Bash shell scripting, high-precision arithmetic using the `bc` engine, and interactive menu-driven logic design.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
