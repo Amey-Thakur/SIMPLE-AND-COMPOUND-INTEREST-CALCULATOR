@@ -175,7 +175,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🔬 **[Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[Interest Calculator Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  🔬 **[Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
 
 </div>
 
