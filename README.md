@@ -104,27 +104,34 @@ SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
 
 ---
 
-<!-- USAGE -->
-## Usage
+<!-- QUICK START -->
+## Quick Start
 
 ### Prerequisites
-- A Linux environment or Termux (Android).
-- `bash` shell.
+- **Bash Shell**: Version 4.0 or higher is recommended for optimal compatibility.
+- **bc Utility**: The standard Unix arbitrary precision calculator utility (`bc`) must be installed for floating-point calculation.
+- **Environment**: Compatible with any POSIX-compliant terminal, including Linux distributions, macOS, and Termux on Android.
 
-### Execution
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR.git
-    cd SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
-    ```
-2.  **Make executable**:
-    ```bash
-    chmod +x "Source Code/Simple_&_Compound_Interest_Calculator.sh"
-    ```
-3.  **Run the script**:
-    ```bash
-    bash "Source Code/Simple_&_Compound_Interest_Calculator.sh"
-    ```
+### Deployment Manual
+
+1. **Clone the Collection**  
+   Retrieve the localized repository using the following Git command:
+   ```bash
+   git clone https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR.git
+   cd SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
+   ```
+
+2. **Environment Configuration**  
+   Ensure the script has the necessary execution permissions within your shell environment:
+   ```bash
+   chmod +x "Source Code/Simple_&_Compound_Interest_Calculator.sh"
+   ```
+
+3. **Execution**  
+   Initialize the interactive terminal menu to begin financial calculations:
+   ```bash
+   bash "Source Code/Simple_&_Compound_Interest_Calculator.sh"
+   ```
 
 ---
 
