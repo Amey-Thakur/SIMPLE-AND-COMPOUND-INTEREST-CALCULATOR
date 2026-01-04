@@ -160,7 +160,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this project. His technical expertise in Shell Scripting, logic development, and dedicated commitment to software quality were fundamental in bringing this calculator utility to life. This technical record serves as a testament to his scholarly partnership and significant impact on the final implementation.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project.
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
 ---
 
