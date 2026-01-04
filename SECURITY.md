@@ -17,7 +17,7 @@ As a finalized project, only the version listed below is authoritative:
 In accordance with established academic and professional standards for security disclosure, security-related observations associated with this project are documented through formal scholarly channels.
 
 To document a security concern, communication is facilitated with the project curator:
-  - **Curator**: [Amey Thakur](https://github.com/Amey-Thakur)
+  - **Curators**: [Amey Thakur](https://github.com/Amey-Thakur), [Hasan Rizvi](https://github.com/rizvihasan)
   - **Method**: Reports are submitted via the repository’s [GitHub Issues](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/issues) interface to formally record security-related findings.
 
 Submissions include:
