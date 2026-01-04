@@ -10,7 +10,7 @@
 
   A robust command-line utility for financial calculations, written in Shell Script.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Project Report](Mini%20Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
+  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Project Report](Mini%20Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 </div>
 
