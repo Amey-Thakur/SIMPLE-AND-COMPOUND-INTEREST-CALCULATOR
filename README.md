@@ -86,20 +86,22 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 ```
 SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
 │
-├── Source Code/                     # Shell Script logic
-│   └── Simple_&_Compound_Interest_Calculator.sh # Core calculation script
+├── docs/                                                # Formal Documentation
+│   └── SPECIFICATION.md                                 # Technical Architecture & Spec
 │
-├── Mini Project/                    # Documentation & Reports
-│   └── Compound and Simple Interest Calculator Report.pdf # Technical Report
+├── Mini Project/                                        # Documentation & Reports
+│   └── Compound and Simple Interest Calculator Report.pdf  # Technical Report (PDF)
 │
-├── docs/                            # Project Documentation
-│   └── SPECIFICATION.md             # Formal Technical Specification
+├── Source Code/                                         # Shell Script Logic
+│   └── Simple_&_Compound_Interest_Calculator.sh         # Core Calculation Script (Bash)
 │
-├── LICENSE                          # MIT License
-├── CITATION.cff                     # Citation Metadata
-├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Project Metadata (JSON-LD)
-└── README.md                        # Project Documentation
+├── .gitattributes                                       # Git Line Ending Configuration
+├── .gitignore                                           # Git Ignore Rules
+├── CITATION.cff                                         # Citation Metadata
+├── codemeta.json                                        # Project Metadata (JSON-LD)
+├── LICENSE                                              # MIT License
+├── README.md                                            # Project Documentation
+└── SECURITY.md                                          # Security Policy & Posture
 ```
 
 ---
