@@ -4,7 +4,9 @@ authors:
 - family-names: "Thakur"
   given-names: "Amey"
   orcid: "https://orcid.org/0000-0001-5644-1575"
-title: "SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR"
+- family-names: "Rizvi"
+  given-names: "Hasan"
+title: "Simple and Compound Interest Calculator"
 version: 1.0.0
 date-released: 2020-08-12
 url: "https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR"

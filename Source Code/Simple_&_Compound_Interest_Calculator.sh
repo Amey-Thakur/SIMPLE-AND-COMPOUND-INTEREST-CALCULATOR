@@ -1,12 +1,12 @@
 #!/bin/bash
 # -----------------------------------------------------------------------------
-# SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR: A Terminal-Based Financial Utility
+# Simple and Compound Interest Calculator: A Terminal-Based Financial Utility
 # 
 # This source file is part of a curated Computer Engineering project collection.
 # It is preserved as a finalized technical artifact representing the application 
 # of Shell Scripting (Bash) for financial logic and terminal-based UI.
 # 
-# AUTHOR: Amey Thakur (https://github.com/Amey-Thakur)
+# AUTHORS: Amey Thakur (https://github.com/Amey-Thakur) & Hasan Rizvi (https://github.com/rizvihasan)
 # REPOSITORY: https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
 # ORIGINAL RELEASE: August 12, 2020
 # 

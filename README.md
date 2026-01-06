@@ -10,7 +10,7 @@
 
   A robust command-line utility for financial calculations, written in Shell Script.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Project Report](Mini%20Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
+  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 </div>
 
@@ -61,6 +61,11 @@ The **Simple and Compound Interest Calculator** is a shell script-based applicat
 
 It provides a user-friendly menu-driven interface to calculate simple interest, compound interest, and total amounts based on user-defined principal, rate, and time parameters.
 
+> [!TIP]
+> **Technical Customization**
+>
+> The calculation precision can be adjusted by modifying the `scale` variable in the `bc` commands (Line 54, 108). Increasing the scale allows for greater accuracy in complex compound interest simulations and financial modeling.
+
 ---
 
 <!-- FEATURES -->
@@ -89,7 +94,7 @@ SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
 ├── docs/                                                # Formal Documentation
 │   └── SPECIFICATION.md                                 # Technical Architecture & Spec
 │
-├── Mini Project/                                        # Documentation & Reports
+├── Mini-Project/                                        # Documentation & Reports
 │   └── Compound and Simple Interest Calculator Report.pdf  # Technical Report (PDF)
 │
 ├── Source Code/                                         # Shell Script Logic
@@ -113,6 +118,11 @@ SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
 - **Bash Shell**: Version 4.0 or higher is recommended for optimal compatibility.
 - **bc Utility**: The standard Unix arbitrary precision calculator utility (`bc`) must be installed for floating-point calculation.
 - **Environment**: Compatible with any POSIX-compliant terminal, including Linux distributions, macOS, and Termux on Android.
+
+> [!WARNING]
+> **Dependency Requirement**
+>
+> This utility relies on the `bc` (Basic Calculator) package for floating-point arithmetic. If execution fails with a "command not found" error, ensure `bc` is installed (`sudo apt install bc` on Debian/Ubuntu or `pkg install bc` on Termux).
 
 ### Installation & Deployment
 
@@ -170,7 +180,7 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 <!-- ABOUT -->
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Hasan Rizvi](https://github.com/rizvihasan)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
