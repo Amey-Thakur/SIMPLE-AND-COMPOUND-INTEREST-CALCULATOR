@@ -11,7 +11,7 @@
 
   A robust menu-driven financial utility for high-precision Simple and Compound Interest calculations, developed using Bash Shell Scripting and the bc (Basic Calculator) engine.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 </div>
 
@@ -36,14 +36,20 @@
   <tr>
   <td align="center">
   <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
+  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
   <sub><b>Amey Thakur</b></sub>
+  </a><br /><br />
+  <a href="https://orcid.org/0000-0001-5644-1575">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/rizvihasan">
-  <img src="https://github.com/rizvihasan.png" width="150px;" alt="Hasan Rizvi"/><br />
+  <img src="https://github.com/rizvihasan.png" width="180px;" alt="Hasan Rizvi"/><br />
   <sub><b>Hasan Rizvi</b></sub>
+  </a><br /><br />
+  <a href="https://github.com/rizvihasan">
+  <img src="https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   </td>
   </tr>
@@ -188,7 +194,7 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 This project features the Simple and Compound Interest Calculator, a terminal-based financial utility developed as a 4th-semester mini-project for the Operating System Laboratory course. It showcases the practical application of Bash shell scripting, high-precision arithmetic using the `bc` engine, and interactive menu-driven logic design.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
