@@ -59,8 +59,8 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 | # | Resource | Description |
 |---|---|---|
 | 1 | [Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Technical project report (PDF) |
-| 2 | [Source Code](Source%20Code/) | Core Bash implementation script |
-| 3 | [Technical Spec](docs/SPECIFICATION.md) | Architectural and logic specification |
+| 2 | [Technical Specification](docs/SPECIFICATION.md) | Technical architecture and logic specification |
+| 3 | [Source Code](Source%20Code/) | Core Bash implementation script |
 | 4 | [OS Laboratory](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) | Academic repository for Operating Systems |
 
 
