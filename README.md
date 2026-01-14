@@ -91,25 +91,25 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 <!-- STRUCTURE -->
 ## Project Structure
 
-```bash
+```python
 INTEREST-CALCULATOR/
 │
-├── docs/                                # Formal Documentation
-│   └── SPECIFICATION.md                 # Technical Architecture & Specification
+├── docs/                                    # Formal Documentation
+│   └── SPECIFICATION.md                     # Technical Architecture & Specification
 │
-├── Mini-Project/                        # Academic Reports
-│   └── Interest_Calculator_Report.pdf   # Technical Project Report
+├── Mini-Project/                            # Academic Reports
+│   └── Interest_Calculator_Report.pdf       # Technical Project Report
 │
-├── Source Code/                         # Core implementation
-│   └── Interest_Calculator.sh           # Main Bash Logic
+├── Source Code/                             # Core Implementation
+│   └── Interest_Calculator.sh               # Main Bash Logic
 │
-├── .gitattributes                       # Git Configuration
-├── .gitignore                           # Git Ignore Rules
-├── CITATION.cff                         # Citation Metadata
-├── codemeta.json                        # Project Metadata (JSON-LD)
-├── LICENSE                              # MIT License
-├── README.md                            # Main Documentation
-└── SECURITY.md                          # Security Policy & Posture
+├── .gitattributes                           # Git Configuration
+├── .gitignore                               # Git Ignore Rules
+├── CITATION.cff                             # Citation Metadata
+├── codemeta.json                            # Project Metadata (JSON-LD)
+├── LICENSE                                  # MIT License
+├── README.md                                # Main Documentation
+└── SECURITY.md                              # Security Policy & Posture
 ```
 
 ---
