@@ -95,7 +95,7 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 INTEREST-CALCULATOR/
 │
 ├── docs/                                # Formal Documentation
-│   └── SPECIFICATION.md                 # Technical Architecture & Spec
+│   └── SPECIFICATION.md                 # Technical Architecture & Specification
 │
 ├── Mini-Project/                        # Academic Reports
 │   └── Interest_Calculator_Report.pdf   # Technical Project Report
