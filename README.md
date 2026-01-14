@@ -32,32 +32,14 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0001-5644-1575">
-  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/rizvihasan">
-  <img src="https://github.com/rizvihasan.png" width="180px;" alt="Hasan Rizvi"/><br />
-  <sub><b>Hasan Rizvi</b></sub>
-  </a><br /><br />
-  <a href="https://github.com/rizvihasan">
-  <img src="https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  </td>
-  </tr>
-  </table>
-
-  *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/rizvihasan"><img src="https://github.com/rizvihasan.png" width="150" height="150" alt="Hasan Rizvi"></a><br>[**Hasan Rizvi**](https://github.com/rizvihasan)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white)](https://github.com/rizvihasan) |
+| :---: | :---: |
 
 </div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Hasan Rizvi](https://github.com/rizvihasan)** for his meaningful contributions, guidance, and support that helped shape this work.*
 
 ---
 
@@ -67,6 +49,20 @@
 The **Simple and Compound Interest Calculator** is a shell script-based application designed to perform essential financial computations directly from the terminal. Developed as part of the Operating System Laboratory coursework, this project demonstrates the power of shell scripting for mathematical logic, user interaction, and process control.
 
 It provides a user-friendly menu-driven interface to calculate simple interest, compound interest, and total amounts based on user-defined principal, rate, and time parameters.
+
+> [!NOTE]
+> **Research Impact**: The logic and architectural overview of this project are part of a curated Computer Engineering collection on ResearchGate.
+> - [ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)
+
+### Resources
+
+| # | Resource | Description |
+|---|---|---|
+| 1 | [Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf) | Technical project report (PDF) |
+| 2 | [Source Code](Source%20Code/) | Core Bash implementation script |
+| 3 | [Technical Spec](docs/SPECIFICATION.md) | Architectural and logic specification |
+| 4 | [OS Laboratory](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) | Academic repository for Operating Systems |
+
 
 > [!TIP]
 > **Technical Customization**
@@ -95,25 +91,25 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 <!-- STRUCTURE -->
 ## Project Structure
 
-```
-SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
+```bash
+INTEREST-CALCULATOR/
 │
-├── docs/                                                # Formal Documentation
-│   └── SPECIFICATION.md                                 # Technical Architecture & Spec
+├── docs/                                # Formal Documentation
+│   └── SPECIFICATION.md                 # Technical Architecture & Spec
 │
-├── Mini-Project/                                        # Documentation & Reports
-│   └── Compound and Simple Interest Calculator Report.pdf  # Technical Report (PDF)
+├── Mini-Project/                        # Academic Reports
+│   └── Interest_Calculator_Report.pdf   # Technical Project Report
 │
-├── Source Code/                                         # Shell Script Logic
-│   └── Simple_&_Compound_Interest_Calculator.sh         # Core Calculation Script (Bash)
+├── Source Code/                         # Core implementation
+│   └── Interest_Calculator.sh           # Main Bash Logic
 │
-├── .gitattributes                                       # Git Line Ending Configuration
-├── .gitignore                                           # Git Ignore Rules
-├── CITATION.cff                                         # Citation Metadata
-├── codemeta.json                                        # Project Metadata (JSON-LD)
-├── LICENSE                                              # MIT License
-├── README.md                                            # Project Documentation
-└── SECURITY.md                                          # Security Policy & Posture
+├── .gitattributes                       # Git Configuration
+├── .gitignore                           # Git Ignore Rules
+├── CITATION.cff                         # Citation Metadata
+├── codemeta.json                        # Project Metadata (JSON-LD)
+├── LICENSE                              # MIT License
+├── README.md                            # Main Documentation
+└── SECURITY.md                          # Security Policy & Posture
 ```
 
 ---
@@ -194,13 +190,15 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 This project features the Simple and Compound Interest Calculator, a terminal-based financial utility developed as a 4th-semester mini-project for the Operating System Laboratory course. It showcases the practical application of Bash shell scripting, high-precision arithmetic using the `bc` engine, and interactive menu-driven logic design.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this project. His technical expertise in Shell Scripting, logic development, and dedicated commitment to software quality were fundamental in bringing this calculator utility to life. This technical record serves as a testament to his scholarly partnership and significant impact on the final implementation.
+Grateful acknowledgment to [**Hasan Rizvi**](https://github.com/rizvihasan) for his exceptional collaboration and innovative contributions during the development of this project. His technical expertise in shell scripting, algorithmic optimization, and commitment to software quality were instrumental in building this robust calculator utility. Learning alongside him was a transformative experience; his thoughtful approach to problem-solving and steady encouragement turned complex challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Hasan, for everything you shared and taught along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Operating Systems. Their expertise in Unix-like systems and process management helped shape the technical foundation of this project.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning endeavor.
 
 ---
 
@@ -221,7 +219,9 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  ### Presented as part of the 4th Semester Mini-Project @ Terna Engineering College
+  #### Presented as part of the 4th Semester Mini-Project @ Terna Engineering College
+
+  ---
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
