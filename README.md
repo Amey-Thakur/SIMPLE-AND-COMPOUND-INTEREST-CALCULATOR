@@ -10,7 +10,7 @@
 
   A robust menu-driven financial utility for high-precision Simple and Compound Interest calculations, developed using Bash Shell Scripting and the bc (Basic Calculator) engine.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
+  **[Live Demo](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/)** &nbsp;·&nbsp; **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 </div>
 
@@ -84,6 +84,7 @@ It provides a user-friendly menu-driven interface to calculate simple interest, 
 - **Language**: Shell Script (Bash)
 - **Environment**: Linux / Termux
 - **Utility**: `bc` (Basic Calculator)
+- **Web Runtime**: HTML, CSS, JavaScript (GitHub Pages)
 
 ---
 
@@ -210,7 +211,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)**
+  🔬 **[Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB)** &nbsp;·&nbsp; 💻 **[SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/)**
 
 </div>
 
