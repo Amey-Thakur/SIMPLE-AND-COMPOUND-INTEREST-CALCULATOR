@@ -10,7 +10,7 @@
 
   A robust menu-driven financial utility for high-precision Simple and Compound Interest calculations, developed using Bash Shell Scripting and the bc (Basic Calculator) engine.
 
-   **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/)**
+  **[Live Demo](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/)** &nbsp;·&nbsp; **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Report](Mini-Project/Compound%20and%20Simple%20Interest%20Calculator%20Report.pdf)**
 
 </div>
 
@@ -229,4 +229,5 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
-</div>
+</div> 
+
