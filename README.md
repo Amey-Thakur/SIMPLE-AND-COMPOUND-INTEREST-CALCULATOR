@@ -148,6 +148,11 @@ INTEREST-CALCULATOR/
    bash "Source Code/Simple_&_Compound_Interest_Calculator.sh"
    ```
 
+> [!TIP]
+> **Interactive Web Simulation**
+>
+> If you prefer a graphical interface or wish to perform quick calculations without a terminal environment, check out the [**Live Demo**](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/). This web-based version provides the same high-precision logic powered by JavaScript, optimized for both desktop and mobile devices.
+
 ---
 
 <!-- =========================================================================================
