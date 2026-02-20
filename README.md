@@ -149,9 +149,9 @@ INTEREST-CALCULATOR/
    ```
 
 > [!TIP]
-> **Interactive Web Simulation**
+> **Terminal Arithmetic on the Web**
 >
-> If you prefer a graphical interface or wish to perform quick calculations without a terminal environment, check out the [**Live Demo**](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/). This web-based version provides the same high-precision logic powered by JavaScript, optimized for both desktop and mobile devices.
+> Experience high-precision financial logic through the [**Live Web Simulation**](https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/)
 
 ---
 
