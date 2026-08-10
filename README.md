@@ -2,10 +2,10 @@
 
   # Simple and Compound Interest Calculator
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-6E7681)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
   [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-00838F)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
-  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-8250DF)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
+  [![Technology](https://img.shields.io/badge/Technology-Shell%20Script-4EAA25)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-0969DA)](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)
 
   A robust menu-driven financial utility for high-precision Simple and Compound Interest calculations, developed using Bash Shell Scripting and the bc (Basic Calculator) engine.
