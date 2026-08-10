@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Simple and Compound Interest Calculator - Social Preview</title>
+<!-- Renders the 1280x640 social preview from this repository's own assets. -->
+</head>
+<body>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1280px;height:640px;overflow:hidden;font-family:"Segoe UI",system-ui,sans-serif}
+.card{position:relative;width:1280px;height:640px;overflow:hidden;
+  background:linear-gradient(135deg,#101826 0%,#0a0f18 100%)}
+.term{position:absolute;right:56px;top:52px;width:672px;height:536px;border-radius:11px;overflow:hidden;
+  background:#0c1017;border:1px solid #223047;box-shadow:0 34px 78px rgba(0,0,0,.62)}
+.bar{height:44px;background:#182234;display:flex;align-items:center;padding:0 16px;gap:9px;
+  border-bottom:1px solid #223047}
+.bar i{width:13px;height:13px;border-radius:50%;display:block}
+.bar .t{margin-left:14px;font-size:14px;color:#8fa3bf;font-family:Consolas,monospace}
+.out{padding:18px 24px;font-family:Consolas,"Courier New",monospace;font-size:16px;line-height:1.62;
+  color:#cfe3ff;white-space:pre}
+.g{color:#7ee0a8}.y{color:#f2c76b}.d{color:#61759a}.w{color:#ffffff}
+.left{position:absolute;left:66px;top:0;bottom:0;width:470px;display:flex;flex-direction:column;justify-content:center}
+.k{font-size:14px;font-weight:700;letter-spacing:.20em;color:#7ee0a8}
+.h1{margin-top:18px;font-size:58px;font-weight:800;line-height:1.02;letter-spacing:-.02em;color:#eef5ff}
+.rule{margin:24px 0 20px;width:84px;height:4px;background:#7ee0a8}
+.meta{font-size:17px;font-weight:600;color:#95a9c6;line-height:1.9}
+.meta b{color:#e6eefb;font-weight:700}
+.by{margin-top:24px;font-size:19px;font-weight:700;color:#eef5ff}
+.by span{display:block;font-size:13px;font-weight:600;letter-spacing:.18em;color:#7387a4;margin-bottom:7px}
+</style>
+<div class="card">
+  <div class="term">
+    <div class="bar"><i style="background:#ff5f57"></i><i style="background:#febc2e"></i><i style="background:#28c840"></i>
+      <span class="t">bash &mdash; Simple_&amp;_Compound_Interest_Calculator.sh</span></div>
+    <div class="out"><span class="d">==========================================</span>
+<span class="w">    SIMPLE &amp; COMPOUND INTEREST CALCULATOR</span>
+<span class="d">==========================================</span>
+1. Calculate Simple Interest
+2. Calculate Compound Interest
+3. Exit
+<span class="d">==========================================</span>
+Enter Your Choice (1-3): <span class="y">2</span>
+<span class="g">--- Compound Interest Calculation ---</span>
+Enter Principal Amount (P): <span class="y">50000</span>
+Enter Time Period in Years (T): <span class="y">5</span>
+Enter Annual Rate of Interest (R): <span class="y">8</span>
+Value for n: <span class="y">4</span>
+<span class="d">------------------------------------------</span>
+Total Amount (Principal + Interest) = <span class="g">74297.37</span>
+<span class="d">------------------------------------------</span>
+<span class="g">$</span> <span class="cur">&#9608;</span></div>
+  </div>
+  <div class="left">
+    <div class="k">MINI PROJECT &middot; SEMESTER IV &middot; CSL404</div>
+    <div class="h1">Simple and<br>Compound<br>Interest Calculator</div>
+    <div class="rule"></div>
+    <div class="meta">A terminal utility, menu driven<br><b>Bash &middot; bc &middot; 2020</b></div>
+    <div class="by"><span>DESIGNED &amp; DEVELOPED BY</span>Amey Thakur &middot; Hasan Rizvi</div>
+  </div>
+</div>
+</body>
+</html>
