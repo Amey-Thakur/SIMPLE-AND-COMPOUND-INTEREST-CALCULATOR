@@ -1,0 +1,33 @@
+# Simple and Compound Interest Calculator
+
+> A Shell Script program designed to calculate simple and compound interest
+> using user-provided inputs.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Hasan Rizvi
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester IV
+Licence: CC BY 4.0, attribution required
+Repository created: 1 August 2021
+Work dated: 12 August 2020
+
+## What is in this repository
+
+- Mini-Project, 1 file
+- Source Code, 2 files
+- docs, 1 file
+
+## Subject terms
+
+bash, calculator, cli-tool, compound-interest, computer-engineering,
+computer-science, engineering, interest-calculator, operating-system,
+operating-system-project, shell-script, shell-scripting, simple-interest,
+university-of-mumbai, unix-utilities
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

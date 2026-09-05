@@ -10,3 +10,7 @@ title: "Simple and Compound Interest Calculator"
 version: 1.0.0
 date-released: 2020-08-12
 url: "https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR"
+identifiers:
+  - type: other
+    value: "2021-08-01"
+    description: "Date this repository was created on GitHub."

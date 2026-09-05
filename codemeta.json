@@ -29,8 +29,10 @@
             }
         }
     ],
+    "dateCreated": "2021-08-01",
     "dateReleased": "2020-08-12",
     "codeRepository": "https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "applicationCategory": "Financial Utility",
     "keywords": [
@@ -38,6 +40,32 @@
         "Bash",
         "Finance",
         "Computer Engineering",
-        "Interest Calculator"
-    ]
+        "Interest Calculator",
+        "Calculator",
+        "CLI Tool",
+        "Compound Interest",
+        "Computer Science",
+        "Engineering",
+        "Operating System",
+        "Operating System Project",
+        "Shell Scripting",
+        "Simple Interest",
+        "University Of Mumbai",
+        "Unix Utilities",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "Semester IV",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://amey-thakur.github.io/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR/"
 }
